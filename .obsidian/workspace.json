@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
+                "file": "Journal/2024-07-17.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "9deaa2ee9b883d6b"
-          }
-        ]
-      },
-      {
-        "id": "3616c82a9680fe53",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5114cc1d0c246ccb",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "9deaa2ee9b883d6b"
+            }
           }
         ]
       }
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
+                "file": "Journal/2024-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
+                "file": "Journal/2024-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md"
+                "file": "Journal/2024-07-17.md"
               }
             }
           }
@@ -192,19 +149,21 @@
   },
   "active": "e66580417426c3c6",
   "lastOpenFiles": [
-    "Inbox/Richard Feynman relied on a method for his success.md",
-    "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
     "Journal/2024-07-16.md",
+    "Journal/2024-07-17.md",
     "Note Taking.md",
+    "Inbox/new note.md",
+    "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
+    "Inbox/Using the 12 favorite problems as a lens to the world.md",
+    "Inbox/Richard Feynman relied on a method for his success.md",
+    "Inbox/Richard Feyman relied on a method for his success.md",
+    "Inbox/Method of 12 favorite problems.md",
     "Excalidraw/Drawing 2024-07-16 23.39.21.excalidraw.md",
     "Excalidraw",
     "Input/Videos",
     "Input/Podcasts",
     "Input/Courses",
     "Input/Articles",
-    "Inbox/Using the 12 favorite problems as a lens to the world.md",
-    "Inbox/Method of 12 favorite problems.md",
-    "Inbox/Richard Feyman relied on a method for his success.md",
     "work/Welcome.md",
     "Output",
     "Input",
