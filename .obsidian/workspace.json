@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "95092c0a8f3576cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7626e8997a8701e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e66580417426c3c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "9deaa2ee9b883d6b"
+          }
+        ]
+      },
+      {
+        "id": "3616c82a9680fe53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5114cc1d0c246ccb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "9deaa2ee9b883d6b"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5067d52f3648e59d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1f2b9d25e14fa86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de503a29d5fa1b69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51099b1682dbcbbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a00dd056419dbaf9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.49999618530273
+  },
+  "right": {
+    "id": "8281a04bb172a422",
+    "type": "split",
+    "children": [
+      {
+        "id": "26c569469de22de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "443fdc4200d8c9fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e29ff490efd32ad1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b77be8da722d26e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29ab637d0411e6bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e66580417426c3c6",
+  "lastOpenFiles": [
+    "Inbox/Richard Feynman relied on a method for his success.md",
+    "Input/Articles/12 Favorite Problems - How to Spark Genius With the Power of Open Questions.md",
+    "Journal/2024-07-16.md",
+    "Note Taking.md",
+    "Excalidraw/Drawing 2024-07-16 23.39.21.excalidraw.md",
+    "Excalidraw",
+    "Input/Videos",
+    "Input/Podcasts",
+    "Input/Courses",
+    "Input/Articles",
+    "Inbox/Using the 12 favorite problems as a lens to the world.md",
+    "Inbox/Method of 12 favorite problems.md",
+    "Inbox/Richard Feyman relied on a method for his success.md",
+    "work/Welcome.md",
+    "Output",
+    "Input",
+    "Zettelkasten",
+    "Journal",
+    "Inbox"
+  ]
+}
